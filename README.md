@@ -126,10 +126,23 @@ Field exposure to Earth Resistivity Meter (VES) measurements forms the practical
 
 ## Author
 
-**Banani Jana**
-M.Sc. Applied Geology (2nd Year), Presidency University, Kolkata
-Email: bananijana2002@gmail.com
+**Banani Jana**  
+ORCID: https://orcid.org/0009-0007-0146-4535
 
+---
+
+## Citation
+If you use this methodology or implementation logic in academic or technical work,
+please cite this repository.
+
+
+DOI:
+
+---
+
+## License
+
+MIT License
 ---
 
 ## License
